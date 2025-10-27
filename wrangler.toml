@@ -1,4 +1,4 @@
 # Top-level configuration
 name = "detranswebsite"
-main = "./index.html"
 compatibility_date = "2025-10-26"
+assets = { directory = "./" }
